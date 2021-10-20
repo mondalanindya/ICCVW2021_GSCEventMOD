@@ -1,6 +1,8 @@
 # GSCEventMOD
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/moving-object-detection-for-event-based-2/event-based-vision-on-dvsmotion20)](https://paperswithcode.com/sota/event-based-vision-on-dvsmotion20?p=moving-object-detection-for-event-based-2)
+
 
 Python implementation for 'Moving Object Detection for Event-based Vision using Graph Spectral Clustering', ICCV Workshops 2021
 
