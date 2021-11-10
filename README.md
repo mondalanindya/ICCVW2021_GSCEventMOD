@@ -14,6 +14,8 @@ Corresponding authors: Anindya Mondal (anindyam.jan@gmail.com) and Shashant R. (
 
 Please cite this paper if you find our work helpful:
 
+```
+
 @InProceedings{Mondal_2021_ICCV,
     author    = {Mondal, Anindya and R, Shashant and Giraldo, Jhony H. and Bouwmans, Thierry and Chowdhury, Ananda S.},
     title     = {Moving Object Detection for Event-Based Vision Using Graph Spectral Clustering},
@@ -22,3 +24,4 @@ Please cite this paper if you find our work helpful:
     year      = {2021},
     pages     = {876-884}
 }
+```
