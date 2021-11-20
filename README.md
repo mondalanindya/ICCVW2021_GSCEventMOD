@@ -10,9 +10,8 @@ Authors: [Anindya Mondal](https://sites.google.com/view/anindyamondal), [Shashan
 
 ![Pipeline](https://github.com/anindya2001/GSCEventMOD/blob/main/pipeline.png)
 
-Abstract: https://openaccess.thecvf.com/content/ICCV2021W/GSP-CV/html/Mondal_Moving_Object_Detection_for_Event-Based_Vision_Using_Graph_Spectral_Clustering_ICCVW_2021_paper.html
-
-Paper: https://openaccess.thecvf.com/content/ICCV2021W/GSP-CV/papers/Mondal_Moving_Object_Detection_for_Event-Based_Vision_Using_Graph_Spectral_Clustering_ICCVW_2021_paper.pdf
+[Abstract](https://openaccess.thecvf.com/content/ICCV2021W/GSP-CV/html/Mondal_Moving_Object_Detection_for_Event-Based_Vision_Using_Graph_Spectral_Clustering_ICCVW_2021_paper.html),
+[Paper (CVF Open Access Version)](https://openaccess.thecvf.com/content/ICCV2021W/GSP-CV/papers/Mondal_Moving_Object_Detection_for_Event-Based_Vision_Using_Graph_Spectral_Clustering_ICCVW_2021_paper.pdf)
 
 # We will release the final version of this code following its publication on IEEE Xplore
 
