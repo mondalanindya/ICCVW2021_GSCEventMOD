@@ -11,22 +11,23 @@ Authors: [Anindya Mondal](https://sites.google.com/view/anindyamondal), [Shashan
 ![Pipeline](https://github.com/anindya2001/GSCEventMOD/blob/main/pipeline.png)
 
 [Abstract](https://openaccess.thecvf.com/content/ICCV2021W/GSP-CV/html/Mondal_Moving_Object_Detection_for_Event-Based_Vision_Using_Graph_Spectral_Clustering_ICCVW_2021_paper.html),
-[Paper (CVF Open Access Version)](https://openaccess.thecvf.com/content/ICCV2021W/GSP-CV/papers/Mondal_Moving_Object_Detection_for_Event-Based_Vision_Using_Graph_Spectral_Clustering_ICCVW_2021_paper.pdf)
+[Paper (CVF Open Access Version)](https://openaccess.thecvf.com/content/ICCV2021W/GSP-CV/papers/Mondal_Moving_Object_Detection_for_Event-Based_Vision_Using_Graph_Spectral_Clustering_ICCVW_2021_paper.pdf),
+[Paper (DOI)](https://ieeexplore.ieee.org/abstract/document/9607843)
 
-# We will release the final version of this code following its publication on IEEE Xplore
+For generating synthetic event-data from any frame-based video, please refer to the [v2e](https://sites.google.com/view/video2events/home) framework developed by the Institute of Neuroinformatics, University of Zurich and ETH Zurich. 
 
-Meanwhile, if you want to use this code for your own work, please contact Anindya Mondal (anindyam.jan@gmail.com) and Shashant R. (shashant7699@gmail.com)
+If you want to use this code for your own work, please contact Anindya Mondal (anindyam.jan@gmail.com) and Shashant R. (shashant7699@gmail.com)
 
-If you use this code, please cite:
+If you use this code, please consider citing:
 
 ```
 
-@InProceedings{Mondal_2021_ICCV,
-    author    = {Mondal, Anindya and R, Shashant and Giraldo, Jhony H. and Bouwmans, Thierry and Chowdhury, Ananda S.},
-    title     = {Moving Object Detection for Event-Based Vision Using Graph Spectral Clustering},  
-    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
-    month     = {October},
-    year      = {2021},
-    pages     = {876-884}
+@inproceedings{mondal2021moving,
+  title={Moving Object Detection for Event-based Vision using Graph Spectral Clustering},
+  author={Mondal, Anindya and Shashant, R and Giraldo, Jhony H and Bouwmans, Thierry and Chowdhury, Ananda S},
+  booktitle={2021 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)},
+  pages={876--884},
+  year={2021},
+  organization={IEEE}
 }
 ```
