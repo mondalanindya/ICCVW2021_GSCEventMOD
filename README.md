@@ -10,9 +10,8 @@ Authors: [Anindya Mondal](https://sites.google.com/view/anindyamondal), [Shashan
 
 ![Pipeline](https://github.com/anindya2001/GSCEventMOD/blob/main/pipeline.png)
 
-[Abstract](https://openaccess.thecvf.com/content/ICCV2021W/GSP-CV/html/Mondal_Moving_Object_Detection_for_Event-Based_Vision_Using_Graph_Spectral_Clustering_ICCVW_2021_paper.html),
 [Paper (CVF Open Access Version)](https://openaccess.thecvf.com/content/ICCV2021W/GSP-CV/papers/Mondal_Moving_Object_Detection_for_Event-Based_Vision_Using_Graph_Spectral_Clustering_ICCVW_2021_paper.pdf),
-[Paper (DOI)](https://ieeexplore.ieee.org/abstract/document/9607843)
+[(DOI)](https://ieeexplore.ieee.org/abstract/document/9607843)
 
 For generating synthetic event-data from any frame-based video, please refer to the [v2e](https://sites.google.com/view/video2events/home) framework developed by the Institute of Neuroinformatics, University of Zurich and ETH Zurich. 
 
