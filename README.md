@@ -8,7 +8,7 @@ Python implementation for 'Moving Object Detection for Event-based Vision using 
 
 Authors: [Anindya Mondal*](https://sites.google.com/view/anindyamondal), [Shashant R*](https://www.researchgate.net/profile/Shashant-R), [Jhony H. Giraldo"](https://sites.google.com/view/jhonygiraldo), [Thierry Bouwmans"](https://sites.google.com/site/thierrybouwmans) and [Ananda S. Chowdhury*](https://sites.google.com/site/anandachowdhury)
 
-Institutional affiliation: [\* Jadavpur University, Kolkata, India](http://www.jaduniv.edu.in/); [\" 
+Institutional affiliations: [\* Jadavpur University, Kolkata, India](http://www.jaduniv.edu.in/); [\" 
 Laboratoire Mathématiques, Image et Applications (MIA), Univ. La Rochelle, France](http://mia.univ-larochelle.fr/)
 
 ![Pipeline](https://github.com/anindya2001/GSCEventMOD/blob/main/pipeline.png)
