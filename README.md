@@ -18,7 +18,7 @@ Laboratoire Mathématiques, Image et Applications (MIA), Univ. La Rochelle, Fran
 
 For generating synthetic event-data from any frame-based video, please refer to the [v2e](https://sites.google.com/view/video2events/home) framework developed by the Institute of Neuroinformatics, University of Zurich and ETH Zurich. 
 
-If you want to use this code for your own work, please contact Anindya Mondal (anindyam.jan@gmail.com) and Shashant R. (shashant7699@gmail.com)
+If you want to use this code for your own work, please get in touch with me (anindyam.jan@gmail.com) and Shashant R. (shashant7699@gmail.com)
 
 If you use this code, please consider citing:
 
