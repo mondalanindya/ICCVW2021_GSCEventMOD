@@ -20,7 +20,7 @@ For generating synthetic event-data from any frame-based video, please refer to 
 
 If you want to use this code for your own work, please get in touch with me (anindyam.jan@gmail.com) and Shashant R. (shashant7699@gmail.com)
 
-If you use this code, please consider citing:
+If you find our work useful, please consider citing:
 
 ```
 
