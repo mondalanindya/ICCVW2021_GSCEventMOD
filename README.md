@@ -6,10 +6,13 @@
 
 Python implementation for 'Moving Object Detection for Event-based Vision using Graph Spectral Clustering', ICCV Workshops 2021
 
-Authors: [Anindya Mondal*](https://sites.google.com/view/anindyamondal), [Shashant R*](https://www.researchgate.net/profile/Shashant-R), [Jhony H. Giraldo"](https://sites.google.com/view/jhonygiraldo), [Thierry Bouwmans"](https://sites.google.com/site/thierrybouwmans) and [Ananda S. Chowdhury*](https://sites.google.com/site/anandachowdhury)
+## Authors
+[Anindya Mondal*](https://sites.google.com/view/anindyamondal), [Shashant R*](https://www.researchgate.net/profile/Shashant-R), [Jhony H. Giraldo"](https://sites.google.com/view/jhonygiraldo), [Thierry Bouwmans"](https://sites.google.com/site/thierrybouwmans) and [Ananda S. Chowdhury*](https://sites.google.com/site/anandachowdhury)
 
 Institutional affiliations: [\* Jadavpur University, Kolkata, India](http://www.jaduniv.edu.in/); [\" 
 Laboratoire Mathématiques, Image et Applications (MIA), Univ. La Rochelle, France](http://mia.univ-larochelle.fr/)
+## Leaderboard
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/moving-object-detection-for-event-based-2/moving-object-detection-on-dvsmotion20)](https://paperswithcode.com/sota/moving-object-detection-on-dvsmotion20?p=moving-object-detection-for-event-based-2)
 
 ![Pipeline](https://github.com/anindya2001/GSCEventMOD/blob/main/pipeline.png)
 
